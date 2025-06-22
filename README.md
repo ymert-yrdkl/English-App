@@ -1,21 +1,24 @@
-# EnglishApp
+# EnglishApp – İngilizce Öğrenme Web Uygulaması
 
-🧠 Bu proje, İngilizce öğrenmek isteyen kullanıcılar için hazırlanmış bir masaüstü uygulamadır. İçerisinde kelime alıştırmaları, boşluk doldurma egzersizleri ve seviyelere göre içerikler yer almaktadır.
+🌐 Bu proje, İngilizce öğrenmek isteyen kullanıcılar için geliştirilmiş bir **web tabanlı uygulamadır**. .NET Core MVC teknolojisi ile geliştirilmiş olup, kullanıcıların seviyeye göre çeşitli alıştırmalar yapmasını ve ilerlemelerini takip etmelerini sağlar.
 
 ## 🚀 Özellikler
 
-- Kullanıcı giriş/kayıt sistemi
-- Seviye bazlı alıştırmalar (A1, A2, B1 vs.)
-- Çoktan seçmeli sorular ve boşluk doldurma
-- Kullanıcı ilerlemesini takip etme
-- SQL Server veritabanı ile çalışır
+- 👤 Kullanıcı kayıt/giriş sistemi (Identity ile)
+- 📊 Seviye bazlı içerikler (A1, A2, B1)
+- ✅ Çoktan seçmeli sorular ve boşluk doldurma egzersizleri
+- 🧠 Kullanıcıların ilerlemesini takip eden sistem
+- 🔐 Yetkilendirme ve roller
+- 💽 SQL Server veritabanı entegrasyonu
 
-## 🛠️ Kullanılan Teknolojiler
+## ⚙️ Kullanılan Teknolojiler
 
-- C# .NET Framework
-- WinForms / WPF (hangisi uygunsa)
+- ASP.NET Core MVC
+- Entity Framework Core
 - SQL Server
-- Entity Framework
+- LINQ
+- Razor Pages
+- Bootstrap 
 
 ## 💾 Veritabanı Kurulumu
 
